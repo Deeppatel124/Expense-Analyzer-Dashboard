@@ -1,0 +1,190 @@
+Date,Category,Amount,Payment_Method,Notes
+2025-01-01,Snacks,40,Cash,Bought biscuits
+2025-01-01,Travel,20,Cash,Auto to bus stand
+2025-01-01,Food,110,UPI,Evening dinner outside
+2025-01-02,Stationary,35,UPI,Pen and notebook
+2025-01-02,Snacks,30,UPI,Tea and samosa
+2025-01-02,Travel,22,Cash,Bus ticket
+2025-01-03,Food,120,UPI,Hostel mess closed
+2025-01-03,Health,80,UPI,Cold tablets
+2025-01-03,Snacks,25,UPI,Evening tea
+2025-01-04,Travel,25,Cash,Bus to college
+2025-01-04,Snacks,45,UPI,Puffs
+2025-01-04,Laundry,60,Cash,Clothes wash
+2025-01-05,Food,95,UPI,Chapathi dinner
+2025-01-05,Snacks,50,UPI,Juice shop
+2025-01-06,Stationary,20,Cash,Highlighter
+2025-01-06,Food,130,UPI,Special lunch
+2025-01-06,Travel,18,UPI,Bus ride
+2025-01-07,Snacks,35,UPI,Milkshake
+2025-01-07,Health,60,UPI,Vitamin tablets
+2025-01-07,Travel,20,Cash,College bus
+2025-01-08,Food,110,UPI,Meals outside
+2025-01-08,Snacks,25,UPI,Tea break
+2025-01-09,Travel,22,Cash,Bus ticket
+2025-01-09,Snacks,55,UPI,Sandwich
+2025-01-09,Laundry,50,Cash,Washing
+2025-01-10,Food,105,UPI,Biriyani
+2025-01-10,Stationary,40,UPI,Marker set
+2025-01-10,Snacks,20,Cash,Tea
+2025-01-11,Travel,25,UPI,Bus to town
+2025-01-11,Food,90,UPI,Fried rice
+2025-01-11,Snacks,30,UPI,Puffs
+2025-01-12,Stationary,35,Cash,Notebook
+2025-01-12,Food,120,UPI,Weekend meal
+2025-01-12,Snacks,45,UPI,Cold coffee
+2025-01-13,Travel,20,Cash,Bus ticket
+2025-01-13,Health,75,UPI,Cold syrup
+2025-01-13,Snacks,40,UPI,Chips
+2025-01-14,Laundry,50,Cash,Clothes wash
+2025-01-14,Food,95,UPI,Meals outside
+2025-01-14,Snacks,25,UPI,Tea
+2025-01-15,Travel,21,Cash,Bus ride
+2025-01-15,Food,100,UPI,Meals
+2025-01-15,Snacks,35,UPI,Puffs
+2025-01-16,Stationary,30,UPI,Pen set
+2025-01-16,Snacks,45,UPI,Juice
+2025-01-16,Food,115,UPI,Lunch outside
+2025-01-17,Travel,25,Cash,College bus
+2025-01-17,Laundry,60,Cash,Washed clothes
+2025-01-17,Snacks,30,UPI,Samosa
+2025-01-18,Food,105,UPI,Parotta
+2025-01-18,Snacks,25,Cash,Tea
+2025-01-18,Health,90,UPI,Medicine
+2025-01-19,Travel,20,Cash,Bus
+2025-01-19,Food,120,UPI,Meals outside
+2025-01-19,Snacks,55,UPI,Milkshake
+2025-01-20,Stationary,25,Cash,File
+2025-01-20,Snacks,35,UPI,Bun and tea
+2025-01-20,Laundry,50,Cash,Clothes wash
+2025-01-21,Travel,25,UPI,Bus
+2025-01-21,Food,110,UPI,Dosai
+2025-01-21,Snacks,40,Cash,Chips
+2025-01-21,Snacks,40,Cash,Chips
+2025-01-22,Food,115,UPI,Meals outside
+2025-01-22,Travel,20,Cash,Bus ticket
+2025-01-22,Snacks,30,UPI,Tea
+2025-01-23,Stationary,25,Cash,Pen refill
+2025-01-23,Snacks,50,UPI,Frappe
+2025-01-23,Food,105,UPI,Chapathi
+2025-01-24,Laundry,60,Cash,Clothes wash
+2025-01-24,Snacks,35,UPI,Puffs
+2025-01-24,Travel,25,UPI,Bus ride
+2025-01-25,Food,120,UPI,Biriyani
+2025-01-25,Snacks,30,Cash,Tea
+2025-01-26,Health,90,UPI,Medicine
+2025-01-26,Food,110,UPI,Fried rice
+2025-01-26,Travel,20,Cash,Bus ticket
+2025-01-27,Snacks,40,UPI,Sandwich
+2025-01-27,Stationary,30,Cash,Notes sheet
+2025-01-27,Food,95,UPI,Meals
+2025-01-28,Snacks,25,UPI,Tea break
+2025-01-28,Travel,25,Cash,College bus
+2025-01-28,Laundry,50,UPI,Clothes wash
+2025-01-29,Food,120,UPI,Outside lunch
+2025-01-29,Snacks,35,Cash,Bread omelette
+2025-01-30,Travel,20,UPI,Bus ticket
+2025-01-30,Snacks,45,UPI,Milkshake
+2025-01-30,Food,100,UPI,Dosai dinner
+2025-01-31,Stationary,40,Cash,Markers
+2025-01-31,Snacks,30,UPI,Puffs
+2025-01-31,Food,115,UPI,Meals outside
+2025-02-01,Snacks,25,UPI,Tea
+2025-02-01,Travel,18,Cash,Bus ride
+2025-02-01,Food,110,UPI,Biriyani
+2025-02-02,Snacks,45,Cash,Cold coffee
+2025-02-02,Stationary,35,UPI,Notebook
+2025-02-02,Laundry,60,Cash,Washed clothes
+2025-02-03,Food,95,UPI,Meals
+2025-02-03,Snacks,35,UPI,Puffs
+2025-02-03,Travel,20,Cash,Bus ticket
+2025-02-04,Health,80,UPI,Tablet for fever
+2025-02-04,Food,120,UPI,Fried rice
+2025-02-04,Snacks,25,Cash,Tea
+2025-02-05,Travel,22,UPI,Auto share
+2025-02-05,Snacks,40,UPI,Juice
+2025-02-05,Food,105,UPI,Parotta
+2025-02-06,Stationary,50,Cash,File folder
+2025-02-06,Snacks,30,UPI,Puffs
+2025-02-06,Laundry,50,Cash,Clothes wash
+2025-02-07,Food,110,UPI,Biriyani
+2025-02-07,Travel,25,UPI,Bus
+2025-02-07,Snacks,55,UPI,Sandwich
+2025-02-08,Food,115,UPI,Weekend special
+2025-02-08,Snacks,35,UPI,Milkshake
+2025-02-08,Stationary,20,Cash,Pen
+2025-02-09,Travel,25,Cash,Bus ticket
+2025-02-09,Snacks,30,UPI,Tea
+2025-02-09,Food,100,UPI,Meals outside
+2025-02-10,Laundry,60,Cash,Clothes wash
+2025-02-10,Snacks,40,UPI,Cold coffee
+2025-02-10,Food,90,UPI,Chapathi
+2025-02-11,Travel,20,Cash,Bus ride
+2025-02-11,Snacks,55,UPI,Frappe
+2025-02-11,Stationary,35,Cash,A4 Sheets
+2025-02-12,Food,110,UPI,Meals
+2025-02-12,Snacks,25,UPI,Tea break
+2025-02-12,Health,75,UPI,Pain balm
+2025-02-13,Travel,22,Cash,Bus ticket
+2025-02-13,Food,95,UPI,Fried rice
+2025-02-13,Snacks,45,UPI,Puffs
+2025-02-14,Stationary,30,Cash,Notebook
+2025-02-14,Snacks,30,UPI,Tea
+2025-02-14,Food,120,UPI,Biriyani
+2025-02-15,Laundry,50,Cash,Clothes wash
+2025-02-15,Snacks,35,UPI,Juice
+2025-02-15,Travel,25,UPI,Bus
+2025-02-16,Food,110,UPI,Meals outside
+2025-02-16,Snacks,40,Cash,Chips
+2025-02-16,Health,80,UPI,Tablets
+2025-02-17,Travel,20,Cash,Bus ride
+2025-02-17,Snacks,30,UPI,Tea
+2025-02-17,Food,100,UPI,Dosai
+2025-02-18,Stationary,45,Cash,Drawing sheets
+2025-02-18,Snacks,25,UPI,Milk
+2025-02-18,Food,115,UPI,Fried rice
+2025-02-19,Travel,22,Cash,Bus
+2025-02-19,Snacks,40,UPI,Cold coffee
+2025-02-19,Laundry,60,Cash,Washing
+2025-02-20,Food,120,UPI,Biriyani
+2025-02-20,Snacks,30,UPI,Tea
+2025-02-20,Stationary,35,Cash,Pen set
+2025-02-21,Snacks,45,UPI,Biscuits and tea
+2025-02-22,Laundry,90,Cash,Clothes washing
+2025-02-23,Travel,25,UPI,Bus to city
+2025-02-24,Food,60,UPI,Hostel dinner extra
+2025-02-25,Stationary,20,Cash,Highlighter
+2025-02-26,Snacks,30,Cash,Chips
+2025-02-27,Medical,120,UPI,Cold tablet
+2025-02-28,Food,70,UPI,Mess coupon
+2025-03-01,Snacks,40,UPI,Cool drinks
+2025-03-02,Travel,20,Cash,Auto share
+2025-03-03,Stationary,55,Cash,Notebook
+2025-03-04,Food,65,UPI,Hostel lunch extra
+2025-03-05,Snacks,25,Cash,Tea break
+2025-03-06,Laundry,100,UPI,Weekly laundry
+2025-03-07,Medical,85,UPI,Bandage and ointment
+2025-03-08,Travel,30,Cash,Bus pass recharge
+2025-03-09,Food,75,UPI,Weekend special meal
+2025-03-10,Snacks,20,Cash,Samosa
+2025-03-11,Stationary,40,UPI,Glue and pen
+2025-03-12,Food,60,UPI,Evening meal
+2025-03-13,Travel,25,Cash,College to hostel
+2025-03-14,Snacks,35,UPI,Milkshake
+2025-03-15,Food,80,UPI,Sunday lunch
+2025-03-16,Laundry,90,Cash,Weekly wash
+2025-03-17,Snacks,15,Cash,Banana chips
+2025-03-18,Travel,20,UPI,Share auto
+2025-03-19,Stationary,30,Cash,Pencil kit
+2025-03-20,Food,70,UPI,Mess addon
+2025-03-21,Snacks,25,Cash,Tea and biscuit
+2025-03-22,Medical,95,UPI,Cough syrup
+2025-03-23,Travel,35,UPI,Bus to market
+2025-03-24,Food,60,Cash,Evening meal
+2025-03-25,Stationary,50,UPI,A4 sheets
+2025-03-26,Snacks,30,Cash,Juice
+2025-03-27,Laundry,100,UPI,Clothes wash
+2025-03-28,Food,75,Cash,Hostel dinner extra
+2025-03-29,Snacks,20,UPI,Cream bun
+2025-03-30,Travel,30,Cash,Bus fare
+2025-03-31,Food,65,UPI,End of month meal
